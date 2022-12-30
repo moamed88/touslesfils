@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/heartcombo/simple_form.git
-  revision: 31fe25504771bd6cd425b585a4e0ed652fba4521
+  revision: 7790db2ea26c94a6c1a473a91d1001655de7b585
   specs:
     simple_form (5.1.0)
       actionpack (>= 5.2)
