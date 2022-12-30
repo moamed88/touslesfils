@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:moamed88/touslesfils.git",
   "author": "mohamed <ouastim@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
 }
